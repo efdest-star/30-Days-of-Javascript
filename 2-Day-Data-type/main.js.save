@@ -1,0 +1,17 @@
+let number = 344;
+let string = "hi";
+let boolens = True;
+let no-value = null
+let undefined-value = unfined;
+let x symbol("id");
+const PI = math.PI;
+
+console.log(
+number: ${number}
+string: ${string}
+boolean: ${booleans}
+null: ${no_value}
+undefined: ${undefined_value}
+symbol: ${x.toString()}
+PI: ${PI}
+`);
